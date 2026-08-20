@@ -1,4 +1,4 @@
-# sLaunch GUI / Game Menu — SD / CRT build
+# sLaunch GUI / Game Menu — 480i / CRT build
 
 sLaunch is an alternative UI for accessing your webMAN games on the XMB.
 It's based on the new GUI for sMAN released by DeanK.
