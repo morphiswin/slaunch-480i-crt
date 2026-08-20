@@ -4,10 +4,10 @@ sLaunch is an alternative UI for accessing your webMAN games on the XMB.
 It's based on the new GUI for sMAN released by DeanK.
 
 This is a modified build of the sLaunch plugin from webMAN MOD, reworked for standard definition output on a CRT and for large game libraries. 
-The stock plugin draws a 1920x1080 canvas and point-samples it down to the 720x480 framebuffer, throwing away about 83% of the image —
-this build area-averages it instead, adds an anti-flicker pass for 480i, compensates for TV overscan/underscan,
-shows the games in directories from /ROMS/xxx in their specific categories, removes PSP/ALL/VIDEO categories
-and fixes a number of bugs in list handling and navigation along the way.
+The stock plugin draws a 1920x1080 canvas and point-samples it down to the 720x480 framebuffer, 
+throwing away about 83% of the image — this build area-averages it instead, adds an anti-flicker pass for 480i, compensates for TV overscan/underscan,
+shows the scanned directories from /ROMS/xxx in their specific categories, removes PSP/ALL/VIDEO categories, increases the total game limit shown to 3500 
+whilst using the /ROMS/PSXISO /ROMS/PS2ISO /ROMS/PS3ISO workaround and fixes a number of bugs in list handling and navigation along the way.
 
 <img width="1440" height="1080" alt="slaunch_00_1440x1080_sharp" src="https://github.com/user-attachments/assets/1fdf5c51-f845-456d-b9f9-c6fe8b3b2f76" />
 <img width="1440" height="1080" alt="slaunch_02_1440x1080_sharp" src="https://github.com/user-attachments/assets/ad5a4998-4cb0-4da8-9d7b-b24f10b58ecd" />
